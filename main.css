@@ -464,5 +464,8 @@ main {
     .third-container div {
         width: 100%;
     }
+    .img {
+        display: none;
+    }
 }
 
